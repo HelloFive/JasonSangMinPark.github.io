@@ -45,12 +45,13 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 13px;
   line-height: 1.5;
-  color: #000;
+  color: #000; /* black */
 }
 
 a {
   font-weight: bold;
-  color: #d5000d;
+  color: #0dd500; /* green */
+  /* color: #d5000d; */ /* red */
 }
 
 header {
@@ -94,7 +95,7 @@ code {
 pre {
   padding: 20px;
   overflow: auto;
-  border: solid 1px #ddd;
+  border: solid 1px #ddd; /* grey */
 }
 pre code {
   padding: 0;
@@ -109,7 +110,7 @@ ul, ol, dl {
 
 table {
   width: 100%;
-  border: 1px solid #ebebeb;
+  border: 1px solid #ebebeb; /* lighter grey */
 }
 
 th {
@@ -119,7 +120,7 @@ th {
 td {
   font-weight: 300;
   text-align: center;
-  border: 1px solid #ebebeb;
+  border: 1px solid #ebebeb;/* lighter grey */
 }
 
 form {
@@ -146,7 +147,8 @@ h3 {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
-  color: #d5000d;
+  color: #0dd500; /* green */
+  /* color: #d5000d; */ /* red */
 }
 
 h4 {
