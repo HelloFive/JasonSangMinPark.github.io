@@ -12,3 +12,8 @@ Needs to Update:
 Minor Issue:
 	- index.html is needed to activate GitHub page
 	  duplicate file with different name: aboutme.html
+
+
+
+=========================================
+Copyright © CSS3_photo_dark | design from css3templates.co.uk
