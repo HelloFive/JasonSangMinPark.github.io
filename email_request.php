@@ -14,4 +14,5 @@ if ($sent) {
 } else {
 	print "We encountered an error sending your mail";
 }
+
 ?>
